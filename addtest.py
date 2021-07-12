@@ -1,0 +1,5 @@
+print('+button == add, code == git add file name')
+print('now staged changed')
+print('if something changed, click add button')
+print('version management is commit')
+print('commit')
